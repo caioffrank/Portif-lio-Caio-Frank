@@ -1,4 +1,4 @@
-Olá Dev,
+Olá,
 
 Esse projeto se trata de um porifolio, afim de me apresentar melhor e demonstrar meus conhecimentos na aréa de desenvolvimento.
 
