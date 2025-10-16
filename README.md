@@ -4,4 +4,4 @@ Esse projeto se trata de um porifolio, afim de me apresentar melhor e demonstrar
 
 Nesse projeto foram utilizados alguns metodos de criação como HTML, CSS e Javascript.
 
-Vale a pena lembrar que esse portifólio segue em evolução!.
+Vale a pena lembrar que esse portifólio segue em evolução!
